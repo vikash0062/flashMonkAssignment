@@ -1,0 +1,604 @@
+2022-05-12 03:42:48,372 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-12 03:45:53,334 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flashmonk:online-store:0.0.1-SNAPSHOT @ /Users/vikashkumar/FlashMonkAssignment/online-store/pom.xml.
+2022-05-12 03:45:55,268 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-store/src/main/java
+2022-05-12 03:45:55,268 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-store/src/main/resources
+2022-05-12 03:45:55,270 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-store/src/main/resources
+2022-05-12 03:45:55,272 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-store/src/test/java
+2022-05-12 03:45:56,872 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2022-05-12 03:45:56,880 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-12 03:45:57,416 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flashmonk:online-store:0.0.1-SNAPSHOT @ /Users/vikashkumar/FlashMonkAssignment/online-store/pom.xml.
+2022-05-12 03:45:58,010 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-store/src/main/java
+2022-05-12 03:45:58,011 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-store/src/main/resources
+2022-05-12 03:45:58,012 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /online-store/src/main/resources
+2022-05-12 03:45:58,013 [Worker-13: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /online-store/src/test/java
+2022-05-12 03:45:58,535 [Worker-13: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-05-12 03:45:59,499 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 03:45:59,499 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 03:45:59,501 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 03:45:59,511 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 03:45:59,514 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 03:45:59,514 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 03:45:59,514 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:00:34,076 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:00:34,076 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:00:34,081 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:00:34,099 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:00:34,101 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:00:34,101 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:00:34,101 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:00:54,757 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:00:54,758 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:00:54,763 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:00:54,779 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:00:54,805 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:00:54,806 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:00:54,806 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:01:17,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:01:17,081 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:01:17,083 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:01:17,090 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:01:17,092 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:01:17,092 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:01:17,092 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:01:39,280 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:01:39,281 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:01:39,281 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:01:39,289 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:01:39,290 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:01:39,290 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:01:39,290 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:09:48,930 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:09:48,931 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:09:48,931 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:09:48,934 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:09:48,939 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:09:48,939 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:09:48,939 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:10:39,592 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:10:39,593 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:10:39,595 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:10:39,604 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:10:39,607 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:10:39,607 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:10:39,607 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:16:31,640 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:16:31,644 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:16:31,649 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:16:31,677 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:16:31,690 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:16:31,690 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:16:31,690 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:16:31,871 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:16:31,872 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:16:31,875 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:16:31,895 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:16:31,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:16:31,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:16:31,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:17:17,848 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:17:17,853 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:17:17,860 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:17:17,877 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:17:17,878 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:17:17,879 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:17:17,879 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:36:59,163 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:36:59,166 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:36:59,171 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:36:59,186 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:36:59,190 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:36:59,190 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:36:59,190 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:37:26,051 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:37:26,051 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:37:26,052 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:37:26,065 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:37:26,066 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:37:26,066 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:37:26,066 [Worker-39: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:38:47,379 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.flashmonk:online-store:0.0.1-SNAPSHOT @ /Users/vikashkumar/FlashMonkAssignment/online-store/pom.xml.
+2022-05-12 04:38:47,856 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:38:47,856 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:38:47,857 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:38:47,857 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:38:47,865 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:38:47,865 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:38:47,865 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:38:50,921 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:38:50,923 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:38:50,925 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:38:50,945 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:38:50,948 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:38:50,948 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:38:50,948 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:38:51,263 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:38:51,263 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:38:51,264 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:38:51,277 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:38:51,284 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:38:51,285 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:38:51,285 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:42:45,855 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:42:45,856 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:42:45,858 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:42:45,876 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:42:45,883 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:42:45,883 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:42:45,883 [Worker-41: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:45:17,015 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:45:17,016 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:45:17,018 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:45:17,033 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:45:17,036 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:45:17,036 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:45:17,037 [Worker-45: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:50:04,483 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:50:04,485 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:50:04,486 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:50:04,507 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:50:04,516 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:50:04,516 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:50:04,516 [Worker-35: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:51:23,103 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:51:23,105 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:51:23,108 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:51:23,143 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:51:23,166 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:51:23,166 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:51:23,166 [Worker-48: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 04:58:23,631 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:58:23,633 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:58:23,635 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 04:58:23,655 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 04:58:23,660 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 04:58:23,660 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 04:58:23,660 [Worker-57: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:05:43,591 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:05:43,596 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:05:43,601 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:05:43,641 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:05:43,645 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:05:43,646 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:05:43,646 [Worker-60: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:07:16,987 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:07:16,987 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:07:16,988 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:07:17,002 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:07:17,007 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:07:17,007 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:07:17,007 [Worker-64: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:08:25,605 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:08:25,605 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:08:25,606 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:08:25,621 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:08:25,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:08:25,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:08:25,627 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:15:11,455 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:15:11,457 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:15:11,459 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:15:11,473 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:15:11,476 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:15:11,477 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:15:11,477 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:15:11,657 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:15:11,657 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:15:11,658 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:15:11,687 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:15:11,688 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:15:11,689 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:15:11,690 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:21:29,405 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:21:29,406 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:21:29,406 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:21:29,417 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:21:29,420 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:21:29,420 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:21:29,420 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:33:36,294 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:33:36,295 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:33:36,297 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:33:36,324 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:33:36,328 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:33:36,328 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:33:36,328 [Worker-71: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:37:37,725 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:37:37,726 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:37:37,728 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:37:37,744 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:37:37,746 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:37:37,746 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:37:37,746 [Worker-76: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 05:48:16,689 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:48:16,689 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:48:16,690 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 05:48:16,704 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 05:48:16,705 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 05:48:16,706 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 05:48:16,706 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:16:50,753 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:16:50,757 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:16:50,763 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:16:50,772 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:16:50,774 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:16:50,775 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:16:50,775 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:25:23,618 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:25:23,624 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:25:23,637 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:25:23,680 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:25:23,697 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:25:23,697 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:25:23,697 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:25:23,991 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:25:23,993 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:25:23,996 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:25:24,019 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:25:24,029 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:25:24,029 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:25:24,029 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:26:02,980 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:26:02,986 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:26:02,989 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:26:03,022 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:26:03,028 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:26:03,029 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:26:03,029 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:26:25,022 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:26:25,024 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:26:25,027 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:26:25,049 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:26:25,054 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:26:25,054 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:26:25,054 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:27:30,783 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:27:30,785 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:27:30,787 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:27:30,792 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:27:30,794 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:27:30,794 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:27:30,794 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:29:41,742 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:29:41,745 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:29:41,746 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:29:41,761 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:29:41,764 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:29:41,764 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:29:41,764 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 09:34:42,842 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:34:42,843 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:34:42,847 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 09:34:42,868 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 09:34:42,878 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 09:34:42,878 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 09:34:42,878 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 10:02:08,202 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:02:08,204 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:02:08,207 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 10:02:08,211 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 10:02:08,213 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:02:08,214 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:02:08,214 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 10:29:49,379 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:29:49,382 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:29:49,385 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 10:29:49,401 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 10:29:49,409 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:29:49,409 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:29:49,409 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 10:49:43,478 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:49:43,480 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:49:43,482 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 10:49:43,488 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 10:49:43,492 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:49:43,492 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:49:43,492 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 10:56:58,451 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:56:58,454 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:56:58,456 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 10:56:58,469 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 10:56:58,470 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 10:56:58,470 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 10:56:58,470 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:03:08,045 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:03:08,046 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:03:08,046 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:03:08,097 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:03:08,103 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:03:08,103 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:03:08,103 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:03:08,961 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:03:08,963 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:03:08,965 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:03:08,972 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:03:08,974 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:03:08,974 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:03:08,974 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:05:16,517 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:05:16,518 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:05:16,519 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:05:16,540 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:05:16,541 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:05:16,542 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:05:16,542 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:05:49,201 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:05:49,205 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:05:49,207 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:05:49,237 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:05:49,246 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:05:49,246 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:05:49,246 [Worker-115: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:06:25,636 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:06:25,637 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:06:25,637 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:06:25,650 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:06:25,654 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:06:25,655 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:06:25,655 [Worker-116: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:07:47,293 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:07:47,294 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:07:47,294 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:07:47,322 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:07:47,325 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:07:47,325 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:07:47,325 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:18:16,177 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:18:16,183 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:18:16,194 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:18:16,219 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:18:16,233 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:18:16,233 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:18:16,233 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:18:16,496 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:18:16,497 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:18:16,497 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:18:16,529 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:18:16,540 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:18:16,540 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:18:16,540 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:19:35,056 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:19:35,059 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:19:35,065 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:19:35,093 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:19:35,099 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:19:35,099 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:19:35,099 [Worker-128: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:23:28,448 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:23:28,450 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:23:28,452 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:23:28,467 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:23:28,469 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:23:28,469 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:23:28,469 [Worker-136: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:25:58,393 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:25:58,394 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:25:58,395 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:25:58,407 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:25:58,411 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:25:58,411 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:25:58,411 [Worker-139: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:29:14,193 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:29:14,199 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:29:14,204 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:29:14,229 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:29:14,238 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:29:14,238 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:29:14,238 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:31:58,939 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:31:58,942 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:31:58,944 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:31:58,967 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:31:58,968 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:31:58,968 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:31:58,968 [Worker-142: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:39:03,620 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:39:03,621 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:39:03,621 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:39:03,642 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:39:03,644 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:39:03,644 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:39:03,644 [Worker-153: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 11:39:04,528 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:39:04,530 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:39:04,532 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 11:39:04,541 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 11:39:04,544 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 11:39:04,545 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 11:39:04,545 [Worker-151: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 19:44:46,329 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-12 19:54:40,880 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 19:54:40,885 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 19:54:40,892 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 19:54:40,916 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 19:54:40,930 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 19:54:40,930 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 19:54:40,930 [Worker-20: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 20:02:22,291 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:02:22,292 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:02:22,298 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 20:02:22,310 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 20:02:22,315 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:02:22,315 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:02:22,315 [Worker-18: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 20:05:58,071 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:05:58,072 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:05:58,075 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 20:05:58,085 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 20:05:58,088 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:05:58,088 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:05:58,088 [Worker-34: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 20:37:22,560 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:37:22,561 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:37:22,563 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 20:37:22,572 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 20:37:22,575 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:37:22,575 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:37:22,575 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 20:38:30,405 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:38:30,405 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:38:30,406 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 20:38:30,412 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 20:38:30,413 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:38:30,414 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:38:30,414 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 20:39:09,195 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:39:09,196 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:39:09,198 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 20:39:09,205 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 20:39:09,207 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 20:39:09,207 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 20:39:09,208 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:06:13,612 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:06:13,613 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:06:13,615 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:06:13,627 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:06:13,631 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:06:13,631 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:06:13,631 [Worker-51: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:10:32,183 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:10:32,184 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:10:32,186 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:10:32,201 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:10:32,226 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:10:32,226 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:10:32,226 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:10:56,081 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:10:56,081 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:10:56,082 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:10:56,103 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:10:56,105 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:10:56,105 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:10:56,105 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:13:44,003 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:13:44,005 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:13:44,007 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:13:44,021 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:13:44,026 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:13:44,027 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:13:44,028 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:15:50,705 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:15:50,706 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:15:50,709 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:15:50,717 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:15:50,718 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:15:50,718 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:15:50,718 [Worker-52: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:31:01,645 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:31:01,647 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:31:01,649 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:31:01,664 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:31:01,666 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:31:01,666 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:31:01,666 [Worker-58: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:36:00,474 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:36:00,475 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:36:00,477 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:36:00,488 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:36:00,493 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:36:00,493 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:36:00,493 [Worker-62: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:52:07,612 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:52:07,613 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:52:07,614 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:52:07,633 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:52:07,635 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:52:07,637 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:52:07,637 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 21:52:42,810 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:52:42,811 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:52:42,814 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 21:52:42,836 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 21:52:42,842 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 21:52:42,842 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 21:52:42,842 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 22:42:39,958 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 22:42:39,959 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 22:42:39,962 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 22:42:39,981 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 22:42:39,986 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 22:42:39,986 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 22:42:39,986 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 22:43:06,225 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 22:43:06,228 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 22:43:06,230 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 22:43:06,249 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 22:43:06,251 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 22:43:06,251 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 22:43:06,251 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 23:13:07,592 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:13:07,594 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:13:07,596 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 23:13:07,623 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 23:13:07,637 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:13:07,637 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:13:07,637 [Worker-93: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 23:13:46,876 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:13:46,876 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:13:46,877 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 23:13:46,885 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 23:13:46,887 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:13:46,887 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:13:46,887 [Worker-97: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 23:27:41,320 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:27:41,322 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:27:41,323 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 23:27:41,346 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 23:27:41,348 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:27:41,348 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:27:41,348 [Worker-103: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-12 23:48:50,316 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:48:50,318 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:48:50,319 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-12 23:48:50,330 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-12 23:48:50,331 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-12 23:48:50,331 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-12 23:48:50,331 [Worker-111: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 02:14:33,279 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 02:14:33,280 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 02:14:33,283 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 02:14:33,301 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 02:14:33,303 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 02:14:33,303 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 02:14:33,303 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 02:15:31,280 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 02:15:31,281 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 02:15:31,282 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 02:15:31,297 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 02:15:31,300 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 02:15:31,300 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 02:15:31,300 [Worker-131: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 02:26:57,042 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 02:26:57,043 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 02:26:57,043 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 02:26:57,062 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 02:26:57,067 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 02:26:57,067 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 02:26:57,067 [Worker-133: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 03:33:09,006 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 03:33:09,007 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 03:33:09,009 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 03:33:09,022 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 03:33:09,024 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 03:33:09,024 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 03:33:09,024 [Worker-137: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 10:45:56,886 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 10:45:56,888 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 10:45:56,889 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 10:45:56,931 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 10:45:56,935 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 10:45:56,935 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 10:45:56,935 [Worker-164: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 10:47:50,841 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 10:47:50,842 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 10:47:50,844 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 10:47:50,849 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 10:47:50,854 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 10:47:50,856 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 10:47:50,856 [Worker-166: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources
+2022-05-13 10:59:09,751 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 10:59:09,753 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 10:59:09,755 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-13 10:59:09,775 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-13 10:59:09,778 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-13 10:59:09,778 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-13 10:59:09,778 [Worker-171: Launching online-store - OnlineStoreApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vikashkumar/FlashMonkAssignment/online-store/src/test/resources

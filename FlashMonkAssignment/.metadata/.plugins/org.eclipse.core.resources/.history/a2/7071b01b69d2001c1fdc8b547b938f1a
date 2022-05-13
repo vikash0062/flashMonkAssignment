@@ -1,0 +1,23 @@
+package com.flashmonk.onlinestore.product;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service
+public class ProductService {
+
+	@Autowired
+	ProductDao productDao;
+  
+	
+	public void saveProduct(Product product) {
+		
+		productDao.save(product);
+	}
+	public Product getByProductId(Integer id)
+	{
+		
+		Product product = productDao.getById(id);
+		return product;
+	}
+}

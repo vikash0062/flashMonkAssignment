@@ -1,0 +1,74 @@
+package com.flashmonk.onlinestore.order;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.flashmonk.onlinestore.cutomer.Customer;
+import com.flashmonk.onlinestore.cutomer.CustomerService;
+import com.flashmonk.onlinestore.product.Product;
+import com.flashmonk.onlinestore.product.ProductService;
+
+@Service
+public class OrderService {
+	@Autowired
+	OrderDao orderDao;
+	
+	@Autowired
+	ProductService  productService;
+	
+	@Autowired
+	CustomerService customerService;
+	
+	
+	public  void addToCart(AddToCart addToCart , Customer customer) {
+		
+		Integer product_id = addToCart.getProduct_id();
+		
+		Product product = productService.getByProductId(product_id);
+		
+		Order order = new Order();
+		order.setCustomer(customer);
+		order.setDate(new Date());
+		order.setProduct(product);
+		order.setQuantity(addToCart.getQuantity());
+		
+		orderDao.save(order);
+		return;
+	}
+
+
+	public OrderDto listOrder(Integer customer_id) {
+		
+		Customer customer = customerService.getCustomerById(customer_id);
+		Integer price =0;
+		List<OrderItem>list= new ArrayList<>();
+		List<Order> orderList = orderDao.findAllByCustomerOrderByGetDateDesc(customer);
+		for(Order order:orderList) {
+			OrderItem orderItem = new OrderItem(order);
+			list.add(orderItem);
+			Product product = order.getProduct();
+			Integer cost = product.getPrice();
+			price+=cost;
+			
+		}
+		OrderDto orderDto = new OrderDto();
+		orderDto.setList(list);
+		orderDto.setTotalPrice(price);
+		return orderDto;
+		
+	}
+
+
+	
+
+
+	
+	
+	
+	
+
+}

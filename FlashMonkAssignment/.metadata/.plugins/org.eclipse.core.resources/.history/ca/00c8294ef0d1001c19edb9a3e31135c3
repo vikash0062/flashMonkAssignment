@@ -1,0 +1,30 @@
+package com.flashmonk.onlinestore.product;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table( name="Product")
+public class Product {
+	
+	@Id
+	@GeneratedValue
+	private Integer productid;
+	
+	@Column(name = "product_name")
+	private String productName;
+	
+	@Column(name="price")
+	private Integer price;
+	
+	@Column(name="brand")
+	private String brand;
+	
+	@Column(name="quantity")
+	private Integer quantity;
+	
+
+}

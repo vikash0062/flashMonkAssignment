@@ -1,0 +1,26 @@
+package com.flashmonk.onlinestore.cutomer;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service
+public class CustomerService {
+	
+	@Autowired
+	CustomerDao customerDao;
+	
+	public void saveCustomer(Customer customer)
+	{
+		Customer user = customer;
+		customerDao.save(user);
+	}
+	
+	public Customer getCustomerById (Integer id)
+	{
+		
+		Customer customer = customerDao.getById(id);
+		return customer;
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+package com.flashmonk.onlinestore.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.flashmonk.onlinestore.product.Product;
+import com.flashmonk.onlinestore.product.ProductService;
+
+public class ProductController {
+
+	@Autowired
+	ProductService productService;
+	
+	@PostMapping("/addProduct")
+	ResponseEntity<?> addProduct(@RequestBody Product product)
+	{
+		
+		Product item = product;
+		Integer id = productService.saveProduct(item);
+		
+		
+		return new ResponseEntity <>("product created: "+id,HttpStatus.ACCEPTED);
+	}
+}

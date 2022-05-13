@@ -1,0 +1,5 @@
+package com.flashmonk.onlinestore.order;
+
+public class OrderDto {
+
+}

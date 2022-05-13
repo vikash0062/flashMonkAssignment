@@ -1,0 +1,40 @@
+package com.flashmonk.onlinestore.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.flashmonk.onlinestore.product.Product;
+import com.flashmonk.onlinestore.product.ProductService;
+
+@RestController
+public class ProductController {
+
+	@Autowired
+	ProductService productService;
+	
+	@PostMapping("/addProduct")
+	ResponseEntity<?> addProduct(@RequestBody Product product)
+	{
+		
+		Product item = product;
+		Integer id = productService.saveProduct(item);
+		
+		
+		return new ResponseEntity <>("product created: "+id,HttpStatus.ACCEPTED);
+	}
+	
+	@GetMapping("/allProduct")
+	ResponseEntity<List<Product>> allProduct()
+	{
+		List<Product> allProduct = productService.getAllProduct();
+		
+		return new ResponseEntity(allProduct,HttpStatus.OK);
+	}
+}

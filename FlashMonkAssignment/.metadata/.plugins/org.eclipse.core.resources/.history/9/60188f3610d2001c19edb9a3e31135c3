@@ -1,0 +1,5 @@
+ackage com.flashmonk.onlinestore.order;
+
+public class OrderDao {
+
+}

@@ -1,0 +1,47 @@
+package com.flashmonk.onlinestore.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.flashmonk.onlinestore.cutomer.Customer;
+import com.flashmonk.onlinestore.cutomer.CustomerService;
+
+@RestController
+public class Controller {
+	
+	@Autowired
+	CustomerService customerService;
+	
+	@PostMapping("/createCustomer")
+	ResponseEntity<?> createCustomer(@RequestBody Customer customer)
+	{
+		
+		Customer user = customer;
+		customerService.saveCustomer(user);
+		
+		return new ResponseEntity <>("cutomer created",HttpStatus.ACCEPTED);
+	}
+	
+	@GetMapping("/getCustomer")
+	ResponseEntity<String> getCustomer(@RequestParam Integer id)
+	{
+		Customer customer = customerService.getCustomerById(id);
+		String name = customer.getCustomerName();
+		
+		return new ResponseEntity(name,HttpStatus.OK);
+		
+	}
+	
+	
+	
+	
+	
+	
+
+}

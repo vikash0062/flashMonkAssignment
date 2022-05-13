@@ -1,0 +1,5 @@
+package com.flashmonk.onlinestore.product;
+
+public class Product {
+
+}

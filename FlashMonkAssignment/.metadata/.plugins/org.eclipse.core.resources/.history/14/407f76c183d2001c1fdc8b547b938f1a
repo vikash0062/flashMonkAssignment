@@ -1,0 +1,91 @@
+package com.flashmonk.onlinestore.order;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.flashmonk.onlinestore.cutomer.Customer;
+import com.flashmonk.onlinestore.cutomer.CustomerService;
+import com.flashmonk.onlinestore.product.Product;
+import com.flashmonk.onlinestore.product.ProductService;
+
+@Service
+public class OrderService {
+	@Autowired
+	OrderDao orderDao;
+	
+	@Autowired
+	ProductService  productService;
+	
+	@Autowired
+	CustomerService customerService;
+	
+	
+	public  void orderPlaced(OrderPlaced orderPlaced , Integer customerId) {
+		
+		Customer customer = customerService.getCustomerById(customerId);
+		
+		Integer product_id = orderPlaced.getProduct_id();
+		
+		Product product = productService.getByProductId(product_id);
+		
+		Order order = new Order();
+		order.setCustomer(customer);
+		order.setDate(new Date());
+		order.setProduct(product);
+		order.setQuantity(orderPlaced.getQuantity());
+		
+		orderDao.save(order);
+		return;
+	}
+
+
+	public OrderDto listOrder(Integer customer_id) {
+		
+		Customer customer = customerService.getCustomerById(customer_id);
+		Integer price =0;
+		List<OrderItem>list= new ArrayList<>();
+		List<Order> orderList = orderDao.findAllByCustomerOrderByDateDesc(customer);
+		for(Order order:orderList) {
+			OrderItem orderItem = new OrderItem(order);
+			list.add(orderItem);
+			Product product = order.getProduct();
+			Integer cost = product.getPrice();
+			price+=cost;
+			
+		}
+		OrderDto orderDto = new OrderDto();
+		orderDto.setList(list);
+		orderDto.setTotalPrice(price);
+		return orderDto;
+		
+	}
+
+
+	public void cancelOrder(Integer orderId, Integer customerId) {
+		
+		Customer customer = customerService.getCustomerById(customerId);
+		Order order = orderDao.getById(orderId);
+		if(order.getCustomer()== customer)
+			orderDao.deleteById(orderId);
+			
+		else
+			System.out.println("Cart doesn't belong to User");
+		return;
+		
+	}
+
+
+	
+
+
+	
+	
+	
+	
+
+}
