@@ -97,9 +97,10 @@ public class OrderService {
 				
         if(order.getCustomer()== customer)
         {
-			orderDao.deleteById(orderId);
+			
 			Integer newQuantity = order.getQuantity()+product.getQuantity();
 			product.setQuantity(newQuantity);
+		        orderDao.deleteById(orderId);
 			
         }
 			
