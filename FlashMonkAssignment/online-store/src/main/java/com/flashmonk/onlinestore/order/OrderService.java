@@ -77,7 +77,7 @@ public class OrderService {
 			OrderItem orderItem = new OrderItem(order);
 			list.add(orderItem);
 			Product product = order.getProduct();
-			Integer cost = product.getPrice();
+			Integer cost = product.getPrice()*orderItem.getQuantity();
 			price+=cost;
 			
 		}
